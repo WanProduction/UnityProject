@@ -8,7 +8,7 @@ Don't have an API key? Make sure to register for FREE at [echoAR](https://consol
 Follow the instructions on our [doumention page](https://docs.echoar.xyz/unity/adding-ar-capabilities) to [set your API key](https://docs.echoar.xyz/unity/adding-ar-capabilities#3-set-you-api-key).
 
 ## Run
-* [Add the 3D model](https://docs.echoar.xyz/quickstart/add-a-3d-model) to the console.
+* [Add the model and the video file](https://docs.echoar.xyz/quickstart/add-a-3d-model) from the [Models folder](https://github.com/echoARxyz/Portal-Demo/tree/master/Models) to your console.
 * [Build and run the AR application](https://docs.echoar.xyz/unity/adding-ar-capabilities#4-build-and-run-the-ar-application).
 
 ## Learn more
