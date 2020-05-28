@@ -1,4 +1,4 @@
-## Unity-ARFoundation-echoAR-portal
+## Unity-ARFoundation-echoAR-demo-Portal
 Example Unity project creating a portal with AR Foundation and echoAR integrated.
 
 ## Register
