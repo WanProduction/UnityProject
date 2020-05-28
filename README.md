@@ -20,4 +20,3 @@ Feel free to reach out at [support@echoAR.xyz](mailto:support@echoAR.xyz) or joi
 ## Screenshots
 ![portal(/screenshots/portal.gif)
 ![console(/screenshots/console.jpg)
-![additional data(/screenshots/additional%20data.jpg)
