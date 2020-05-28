@@ -1,5 +1,5 @@
-## Unity-ARFoundation-echoAR-demo-Portal
-Example Unity project creating a portal with AR Foundation and echoAR integrated.
+# Unity-ARFoundation-echoAR-demo-Portal
+Simple portal demo with Unity, AR Foundation, and echoAR.
 
 ## Register
 Don't have an API key? Make sure to register for FREE at [echoAR](https://console.echoar.xyz/#/auth/register).
