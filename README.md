@@ -6,15 +6,15 @@ Don't have an API key? Make sure to register for FREE at [echoAR](https://consol
 
 ## Setup
 Follow the instructions on our [documentation page](https://docs.echoar.xyz/unity/adding-ar-capabilities) to [set your API key](https://docs.echoar.xyz/unity/adding-ar-capabilities#3-set-you-api-key).
-* Download the Portal folder, which includes the required prefabs, shaders, and scripts to create your own portal.
-* Replace CustomBehaviour.cs with the new one in this project.
+* Clone this project and open the project in Unity.
 * In the Portals folder, open up the Portal.unity scene (same as sample scene, but includes tags 'portal', 'portalVideo' and 'skyDome', and a box collider on the Main Camera).
 * In Portal < Prefabs, drag portalController into the Hierarchy.
     * Click on portalController in the Hierarchy and drag SkyDome and PortalPlane into their respective fields in the Portal Controller script in the Inspector.
+* Click the echoAR prefab and enter your API key.
 
 ## How to Create a Portal
-1. Upload one of the portal models in Portal < Prefabs < Portal Models to the console.
-2. Add in the metadata from metadata.csv in this project.
+1. Upload one of the portal models the [Models](https://github.com/echoARxyz/Portal-Demo/tree/master/Models) folder.
+2. Add in the metadata from metadata.csv in the [Models](https://github.com/echoARxyz/Portal-Demo/tree/master/Models) folder.
 3. Upload a 360 video to the console (e.g. 'Beach Sunrise' in the Portals folder).
 4. In the uploaded video's metadata, assign it the key-value pair, 'name: "portalVideo"'.
 3. At this point, the portal plane and skyDome will be created, the video will be projected on the inside of the skyDome, and you should be able to get a peek into the skyDome through the portal plane.
